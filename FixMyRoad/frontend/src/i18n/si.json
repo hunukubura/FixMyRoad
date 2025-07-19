@@ -1,0 +1,15 @@
+{
+  "report_issue": "මාර්ග ගැටළු වාර්තා කරන්න",
+  "pending": "පැමිණිල්ලක්",
+  "in_progress": "සක්‍රීය",
+  "resolved": "පිළිගත්",
+  "dashboard": "ඩැෂ්බෝඩ්",
+  "language": "භාෂාව",
+  "submit": "ඉදිරිපත් කරන්න",
+  "view_reports": "වාර්තා බලන්න",
+  "admin_dashboard": "පරිපාලක ඩැෂ්බෝඩ්",
+  "notifications": "නිවේදන",
+  "new_report": "නව වාර්තාවක්",
+  "status": "තත්වය",
+  "map": "පැතිකඩ"
+}

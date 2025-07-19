@@ -1,0 +1,30 @@
+{
+  "app_name": "FixMyRoad",
+  "dashboard": {
+    "title": "Dashboard",
+    "issue_statuses": {
+      "pending": "Pending",
+      "in_progress": "In Progress",
+      "resolved": "Resolved"
+    }
+  },
+  "report_form": {
+    "title": "Report a Road Issue",
+    "description_placeholder": "Describe the issue...",
+    "submit_button": "Submit Report"
+  },
+  "admin_dashboard": {
+    "title": "Admin Dashboard",
+    "manage_reports": "Manage Reports"
+  },
+  "notifications": {
+    "new_report": "A new report has been submitted."
+  },
+  "language_switcher": {
+    "select_language": "Select Language"
+  },
+  "map": {
+    "title": "Map View",
+    "view_reports": "View Reports on Map"
+  }
+}

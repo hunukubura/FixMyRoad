@@ -1,0 +1,22 @@
+{
+  "name": "fixmyroad-backend",
+  "version": "1.0.0",
+  "description": "Backend for FixMyRoad PWA to report road issues in North Western Province, Sri Lanka.",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "dev": "nodemon src/app.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "sqlite3": "^5.0.2",
+    "nodemailer": "^6.4.11",
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}
